@@ -1,0 +1,6 @@
+@Turtle.ChatService_HostAddress = http://localhost:5188
+
+GET {{Turtle.ChatService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
